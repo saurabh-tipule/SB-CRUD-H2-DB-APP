@@ -11,6 +11,8 @@ import org.hibernate.annotations.DynamicUpdate;
 @XmlRootElement
 public class Student {
 
+	 private int id;
+
 	@Id
 	private Integer rollno;
 
