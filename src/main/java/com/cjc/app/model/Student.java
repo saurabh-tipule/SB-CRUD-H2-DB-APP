@@ -11,6 +11,10 @@ import org.hibernate.annotations.DynamicUpdate;
 @XmlRootElement
 public class Student {
 
+	public void login(){
+		//  SuccessFully Implement Login Functionality
+	}
+
 	 private int id;
 
 	@Id
