@@ -59,4 +59,11 @@ public class Student {
 		this.marks = marks;
 	}
 
+	public void generatePassword(){
+		
+		// 15 -20 line code  2-hrs
+
+		// 50 line code
+	}
+
 }
