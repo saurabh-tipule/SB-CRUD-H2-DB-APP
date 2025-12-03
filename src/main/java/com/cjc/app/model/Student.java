@@ -11,6 +11,9 @@ import org.hibernate.annotations.DynamicUpdate;
 @XmlRootElement
 public class Student {
 
+	private String hello;
+
+
 	public void login(){
 		//  SuccessFully Implement Login Functionality
 	}
