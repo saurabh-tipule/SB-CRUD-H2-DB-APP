@@ -12,12 +12,13 @@ import org.hibernate.annotations.DynamicUpdate;
 public class Student {
 
 	private String hello;
-   
+
+	private String hii;   
+
         public void m2()
         {
            System.out.println("m2--method--called");
         }
-
 
 	public void login(){
 		//  SuccessFully Implement Login Functionality
