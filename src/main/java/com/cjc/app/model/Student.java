@@ -12,6 +12,7 @@ import org.hibernate.annotations.DynamicUpdate;
 public class Student {
 
 	private String hello;
+	private String hii;
 
 
 	public void login(){
